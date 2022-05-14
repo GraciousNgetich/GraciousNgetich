@@ -12,8 +12,16 @@
   <img src="https://github.com/GraciousNgetich/GraciousNgetich/blob/main/github.png" width="900" height="400"/>
 </div>
 
-<!--
-**GraciousNgetich/GraciousNgetich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+### :woman_technologist: About Me :
+
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 
 Here are some ideas to get you started:
 
