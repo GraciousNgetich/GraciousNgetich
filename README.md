@@ -60,6 +60,13 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraciousNgetich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 Here are some ideas to get you started:
 
