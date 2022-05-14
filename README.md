@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/GraciousNgetich/GraciousNgetich/commit/ba100f4da3103932030bf662a61f3223c255d266" width="600" height="300"/>
+  <img src="https://github.com/GraciousNgetich/GraciousNgetich/commit/ba100f4da3103932030bf662a61f3223c255d266">
 </div>
 
 <!--
