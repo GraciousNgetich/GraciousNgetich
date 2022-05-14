@@ -50,6 +50,16 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GraciousNgetich&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
