@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/GraciousNgetich/GraciousNgetich/blob/main/github.png" width="800" height="400"/>
+  <img src="https://github.com/GraciousNgetich/GraciousNgetich/blob/main/github.png" width="900" height="400"/>
 </div>
 
 <!--
