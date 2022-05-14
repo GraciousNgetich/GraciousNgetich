@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=GraciousNgetich&style=flat-square&color=blue" alt=""/>
 </div>
 
