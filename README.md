@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/GraciousNgetich/GraciousNgetich/commit/ba100f4da3103932030bf662a61f3223c255d266">
+  <img src="https://www.canva.com/design/DAFAfaS3DDk/mDQJ2k78Viqsg3-sZtH9Zw/edit?utm_content=DAFAfaS3DDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 </div>
 
 <!--
