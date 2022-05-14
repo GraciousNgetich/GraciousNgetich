@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAFAfaS3DDk/mDQJ2k78Viqsg3-sZtH9Zw/edit?utm_content=DAFAfaS3DDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
