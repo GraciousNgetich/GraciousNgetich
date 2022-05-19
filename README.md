@@ -26,7 +26,11 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: Exploring Data Science And Machine Learning.
 
+- 👯 I’m looking to collaborate on Data Science Projects.
+
 - :zap: In my free time, I solve problems on CodingGame and read tech articles.
+
+- 😄 Pronouns: she/her
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gracious-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graciousngetich/)
 
@@ -67,15 +71,3 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
