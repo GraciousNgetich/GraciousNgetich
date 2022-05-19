@@ -32,7 +32,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 😄 Pronouns: she/her
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gracious-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graciousngetich/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gracious-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graciousngetich/) || graciousngetich@gmail.com
 
 ---
 
