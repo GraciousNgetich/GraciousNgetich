@@ -24,7 +24,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: I’m working as a Front-End Developer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Data Science And Machine Learning.
+- :seedling: Exploring Data Science and Machine Learning.
 
 - 👯 I’m looking to collaborate on Data Science Projects.
 
