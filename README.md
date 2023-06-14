@@ -28,7 +28,7 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 👯 I’m looking to collaborate on Data Engineering Projects.
 
-- :zap: In my free time, I solve problems on CodingGame and read tech articles.
+- :zap: In my free time, I read books, listen to tech or personal growth podcasts.
 
 - 😄 Pronouns: she/her
 
