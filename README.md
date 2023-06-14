@@ -20,13 +20,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m working as a Front-End Developer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Data Engineer and contributing to Big Data projects.
 
-- :seedling: Exploring Data Science and Machine Learning.
+- :seedling: Exploring Airtificial Intelligence and Machine Learning.
 
-- 👯 I’m looking to collaborate on Data Science Projects.
+- 👯 I’m looking to collaborate on Data Engineering Projects.
 
 - :zap: In my free time, I solve problems on CodingGame and read tech articles.
 
