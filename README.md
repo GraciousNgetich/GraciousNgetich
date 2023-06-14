@@ -24,7 +24,7 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: I’m working as a Data Engineer and contributing to Big Data projects.
 
-- :seedling: Exploring Airtificial Intelligence and Machine Learning.
+- :seedling: Exploring Artificial Intelligence and Machine Learning.
 
 - 👯 I’m looking to collaborate on Data Engineering Projects.
 
